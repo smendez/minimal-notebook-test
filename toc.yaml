@@ -1,0 +1,15 @@
+- path: this.ipynb
+  title: This
+- path: 01.03-Magic-Commands.ipynb
+  title: Preface
+  contents:
+    - path: IPython-Magic-Commands
+      title: "IPython Magic Commands"
+    - path: Pasting-Code-Blocks:-%paste-and-%cpaste
+      title: "Pasting Code Blocks: %paste and %cpaste"
+    - path: Running-External-Code:-%run
+      title: "Running External Code: %run"
+    - path: Timing-Code-Execution:-%timeit
+      title: "Timing Code Execution: %timeit"
+    - path: Help-on-Magic-Functions:-?,-%magic,-and-%lsmagicyaml.safe_load(toc)
+      title: "Help on Magic Functions: ?, %magic, and %lsmagic"
