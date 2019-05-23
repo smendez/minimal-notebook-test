@@ -1,15 +1,21 @@
-- path: this.ipynb
-  title: This
-- path: 01.03-Magic-Commands.ipynb
+- path: notebooks/00.00-Preface.ipynb
   title: Preface
   contents:
-    - path: IPython-Magic-Commands
-      title: "IPython Magic Commands"
-    - path: Pasting-Code-Blocks:-%paste-and-%cpaste
-      title: "Pasting Code Blocks: %paste and %cpaste"
-    - path: Running-External-Code:-%run
-      title: "Running External Code: %run"
-    - path: Timing-Code-Execution:-%timeit
-      title: "Timing Code Execution: %timeit"
-    - path: Help-on-Magic-Functions:-?,-%magic,-and-%lsmagicyaml.safe_load(toc)
-      title: "Help on Magic Functions: ?, %magic, and %lsmagic"
+  - title: What is Data Science?
+  - title: Who is this book for?
+  - title: Why Python?
+  - title: Outline of this book
+  - title: Using Code Examples
+  - title: Installation Considerations
+  - title: Conventions used in this book
+  - title: O'Reilly Safari
+  - title: How to contact us
+- path: notebooks/01.00-IPython-Beyond-Normal-Python.ipynb
+  title: '1. Python: Beyond Normal Python'
+  contents:
+  - title: Shell or Notebook?
+    contents:
+    - path: notebooks/01.01-Help-And-Documentation.ipynb
+      title: Launching the iPython Shell
+    - path: notebooks/01.02-Shell-Keyboard-Shortcuts.ipynb
+      title: Launching the Jupyter Notebook
