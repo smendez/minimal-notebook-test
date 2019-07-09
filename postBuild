@@ -1,2 +1,6 @@
+jupyter contrib nbextension install --user
+jupyter nbextension install https://rawgithub.com/minrk/ipython_extensions/master/nbextensions/gist.js
+jupyter nbextension enable gist
+
 jupyter trust this.ipynb
 jupyter trust 01.03-Magic-Commands.ipynb
